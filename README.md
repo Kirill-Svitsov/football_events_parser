@@ -1,3 +1,5 @@
+[![GitHub](https://img.shields.io/badge/GitHub-Kirill--Svitsov-blue)](https://github.com/Kirill-Svitsov)
+
 # Football Events Parser
 
 ## Назначение
