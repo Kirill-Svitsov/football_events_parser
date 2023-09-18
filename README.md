@@ -28,6 +28,8 @@ TELEGRAM_CHAT_ID=YOUR_TELEGRAM_CHAT_ID
 URL_SPORTING=https://www.sporting.pt/pt/bilhetes-e-gamebox/bilhetes
 URL_MATCH_TV=https://matchtv.ru/tvguide
 URL_BENFICA=https://www.sports.ru/benfica/calendar/
+HEADER_ACCEPT=YOUR_HEADER_ACCEPT
+USER_AGENT=YOUR_USER_AGENT
 ```
 ```
 pip install -r requirements.txt
