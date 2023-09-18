@@ -16,8 +16,6 @@ as well as tournament details, and send them to a Telegram bot.
 - datetime for working with dates and times
 - python-telegram-bot for creating a Telegram bot
 
-## Как развернуть
-
 ## Local Setup
 
 1. Make sure you have Python 3.6 or higher installed on your system.
